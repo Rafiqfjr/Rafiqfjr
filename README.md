@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,I'M%20Muhammad%20Rafiq%20Fajar&fontAlign=80&fontAlignY=40&color=gradient)
 
 ### Data Scientist
 
