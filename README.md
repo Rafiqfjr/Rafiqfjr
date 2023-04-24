@@ -13,6 +13,34 @@
 <a href="https://www.instagram.com/rafiqfjr/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" width="70" height="50"/></a>
 <a href=""><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" width="70" height="50"/></a>
 
+### Tools:
+
+<a href=""><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="70" height="50"/></a>
+<a href=""><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" width="70" height="50"/></a>
+<a href=""><img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg" width="70" height="50"/></a>
+<a href=""><img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg" width="70" height="50"/></a>
+
+
+### My GitHub Stats
+
+<table>
+    <tr>
+        <td>
+            <img src="https://github-profile-trophy.vercel.app/?username=Rafiqfjr&row=3&column=4&no-bg=true"/>
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafiqfjr"/>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=Rafiqfjr&count_private=true&show_icons=true&theme=tokyonight"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiqfjr&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+        </td>
+    </tr>
+</table>
 
 <!--
 **Rafiqfjr/Rafiqfjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
