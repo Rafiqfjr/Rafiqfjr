@@ -9,16 +9,16 @@
 
 ### Contact me:
 
-<a href="https://www.linkedin.com/in/muhammad-rafiq-fajar-967a3b127/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="70" height="50"/></a>
-<a href="https://www.instagram.com/rafiqfjr/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" width="70" height="50"/></a>
-<a href=""><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" width="70" height="50"/></a>
+<a href="https://www.linkedin.com/in/muhammad-rafiq-fajar-967a3b127/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="90" height="50"/></a>
+<a href="https://www.instagram.com/rafiqfjr/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" width="90" height="50"/></a>
+<a href=""><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" width="90" height="50"/></a>
 
 ### Tools:
 
-<a href=""><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="70" height="50"/></a>
-<a href=""><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" width="70" height="50"/></a>
-<a href=""><img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg" width="70" height="50"/></a>
-<a href=""><img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg" width="70" height="50"/></a>
+<a href=""><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="90" height="50"/></a>
+<a href=""><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" width="90" height="50"/></a>
+<a href=""><img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg" width="90" height="50"/></a>
+<a href=""><img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg" width="90" height="50"/></a>
 
 
 ### My GitHub Stats
